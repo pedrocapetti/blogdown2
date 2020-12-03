@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Capetti</title>
+    <link>/pedrocapetti/blogdown/</link>
+    <description>Recent content on Pedro Capetti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/pedrocapetti/blogdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twemoji Support 🤩</title>
+      <link>/pedrocapetti/blogdown/posts/twemoji-support/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/posts/twemoji-support/</guid>
+      <description>If you want to use Twitter&amp;rsquo;s Twemoji across your website, enable it in your config.toml
+[params] enableTwemoji = true This will not only give your website unified emojis across all platforms. It will also give you the latest Unicode 13 emoji set, such as 🧋🫕🛻🪗🪞.
+Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩 Emoji size changes with text size 🤩  </description>
+    </item>
+    
+    <item>
+      <title>Render LaTeX using KaTeX</title>
+      <link>/pedrocapetti/blogdown/posts/render-latex-using-katex/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/posts/render-latex-using-katex/</guid>
+      <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
++++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
+It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
+Inline math looks like this
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
+    </item>
+    
+    <item>
+      <title>Hugo coder wiki</title>
+      <link>/pedrocapetti/blogdown/posts/hugo-coder-wiki/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dummy</title>
+      <link>/pedrocapetti/blogdown/posts/dummy/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/posts/dummy/</guid>
+      <description>Nada para ver aqui!</description>
+    </item>
+    
+    <item>
+      <title>Theme Demo</title>
+      <link>/pedrocapetti/blogdown/posts/theme-demo/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/posts/theme-demo/</guid>
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/pedrocapetti/blogdown/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>/pedrocapetti/blogdown/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/posts/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>/pedrocapetti/blogdown/posts/hugo-template-primer/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/posts/hugo-template-primer/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>/pedrocapetti/blogdown/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/posts/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>/pedrocapetti/blogdown/posts/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/posts/migrate-from-jekyll/</guid>
+      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/pedrocapetti/blogdown/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/contact/</guid>
+      <description>Follow me, @johndoe.</description>
+    </item>
+    
+    <item>
+      <title>Cursos</title>
+      <link>/pedrocapetti/blogdown/cursos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/cursos/</guid>
+      <description>Intermediate Importing Data in R Datacamp
+Introduction to Importing Data in R Datacamp
+Introduction to the Tidyverse Datacamp
+Introduction to R Datacamp
+Produção de Vídeos para Internet Knight Center for Journalism in the Americas
+Raspagem de Dados Públicos com Python - Não é bruxaria é pandas HUB UFRJ
+Técnicas Básicas de Jornalismo de Dados Knight Center for Journalism in the Americas
+Investigação de Empresas por Meio de Balanços Abraji
+Jornalismo de Dados com SQL Abraji</description>
+    </item>
+    
+    <item>
+      <title>First snippet</title>
+      <link>/pedrocapetti/blogdown/snippets/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/snippets/first/</guid>
+      <description>This content is in snippets/first/index.md
+pwd </description>
+    </item>
+    
+    <item>
+      <title>Outras Reportagens</title>
+      <link>/pedrocapetti/blogdown/outras_reportagens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/outras_reportagens/</guid>
+      <description>O Globo Em atualização&amp;hellip;
+Revista Época Qual é o tamanho do nosso buraco econômico?
+20/03/2020
+Leia a matéria
+Salários de assessores da família Bolsonaro oscilavam com frequência
+10/09/2019
+Leia a matéria
+Integrantes das 32 famílias que assessoram o clã Bolsonaro receberam r$ 65 milhões desde 1991
+09/08/2019
+Leia a matéria
+Tribuna de Minas Mais de 70 celulares são apreendidos por mês nas prisões de JF
+05/01/2019 Leia a matéria
+Nova fase da Lava Jato tem pedido de prisão cumprido em JF</description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>/pedrocapetti/blogdown/projetos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/projetos/</guid>
+      <description>Monitor dos Royalties Monitor dos Royalties foi um especial organizado ao lado da repórter especial de Economia do Globo, Cássia Almeida, para mostrar o impacto dos recursos do petróleo nos indicadores sociais nos últimos 20 anos.
+Além de uma plataforma que permite a consulta dos índices das cidades, a série de reportagens mostrou os desafios e problemas que vivenciam as cidades que receberam ou recebem esses recursos, como o da expansão desordenada, economia, educação e saneamento básico.</description>
+    </item>
+    
+    <item>
+      <title>Reportagens</title>
+      <link>/pedrocapetti/blogdown/reportagens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/reportagens/</guid>
+      <description>Pesquisas eleitorais bancadas por institutos crescem em meio a suspeitas de fraudes A partir de documentos públicos, mostramos como o potencial de desinformação gerado pelo mercado de pesquisas de opinião públicas, em alta no país. Mostramos que o esquema ocorre com a chancela do TSE. Identificamos acusações de ofertas de resultados fraudulentos, levantamentos feitos a partir de formulários do Google e Facebook e uso de dados falsos de estatísticos. Após a reportagem, a Procuradoria Geral Eleitoral abriu um procedimento para investigar as denúncias.</description>
+    </item>
+    
+    <item>
+      <title>Second snippet</title>
+      <link>/pedrocapetti/blogdown/snippets/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/snippets/second/</guid>
+      <description>This content is in snippets/second/index.md
+ls -la </description>
+    </item>
+    
+    <item>
+      <title>Sobre mim</title>
+      <link>/pedrocapetti/blogdown/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pedrocapetti/blogdown/sobre/</guid>
+      <description>Tenho 24 anos e nasci em Itajubá (MG). Sou formado em Jornalismo pela Universidade Federal de Juiz de Fora. Desde agosto de 2019, atuo como repórter de Economia do Jornal O Globo, onde trabalho diretamente na cobertura de temas macroeconômicos e análise de políticas, a partir de dados e estatísticas. Frequentemente, contribuo com reportagens de outras temáticas, como saúde, política e segurança pública.
+Matérias que fiz já foram publicadas em sites como O Globo, Extra, Época, Valor Econômico e Yahoo, além de repercutirem em veículos como TV Globo, GloboNews, El Pais e The Economist.</description>
+    </item>
+    
+  </channel>
+</rss>
