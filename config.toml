@@ -1,4 +1,4 @@
-baseURL = "https://github.com/pedrocapetti/blogdown"
+baseURL = "https://github.com/pedrocapetti/blogdown2"
 title = "Pedro Capetti"
 
 theme = "hugo-coder"
