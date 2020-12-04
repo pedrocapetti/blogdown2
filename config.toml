@@ -1,8 +1,7 @@
-baseURL = "https://github.com/pedrocapetti/blogdown2"
+baseURL = "/"
 title = "Pedro Capetti"
-
 theme = "hugo-coder"
-
+relativeURLs = true
 languageCode = "en"
 defaultContentLanguage = "en"
 
