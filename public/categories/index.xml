@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pedro Capetti</title>
-    <link>/pedrocapetti/blogdown2/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Pedro Capetti</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/pedrocapetti/blogdown2/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>/pedrocapetti/blogdown2/categories/development/</link>
+      <link>/categories/development/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/pedrocapetti/blogdown2/categories/development/</guid>
+      <guid>/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>/pedrocapetti/blogdown2/categories/blog/</link>
+      <link>/categories/blog/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/pedrocapetti/blogdown2/categories/blog/</guid>
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/pedrocapetti/blogdown2/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/pedrocapetti/blogdown2/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>/pedrocapetti/blogdown2/categories/golang/</link>
+      <link>/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/pedrocapetti/blogdown2/categories/golang/</guid>
+      <guid>/categories/golang/</guid>
       <description></description>
     </item>
     
