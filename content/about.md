@@ -37,7 +37,6 @@ Pela reportagem [Bolsa Família volta a ter fila, com 500 mil inscritos em apena
 *(2020 - Finalista)*     
 Pelas reportagens [Em 28 anos, clã Bolsonaro nomeou 102 pessoas com laços familiares](https://oglobo.globo.com/brasil/em-28-anos-cla-bolsonaro-nomeou-102-pessoas-com-lacos-familiares-23837445), publicada pelo Jornal O Globo, e [Famílias que assessoram Bolsonaro receberam R$ 65 milhões desde 1991](https://epoca.globo.com/integrantes-das-32-familias-que-assessoram-clabolsonaro-receberam-65-milhoes-desde-1991-23864535), pela Revista Época. 
 
-
 **Relatoría para la Libertad de Expresión 2019**     
 *(2019 - Vencedor)*     
 Pelas reportagens [Em 28 anos, clã Bolsonaro nomeou 102 pessoas com laços familiares](https://oglobo.globo.com/brasil/em-28-anos-cla-bolsonaro-nomeou-102-pessoas-com-lacos-familiares-23837445), publicada pelo Jornal O Globo, e [Famílias que assessoram Bolsonaro receberam R$ 65 milhões desde 1991](https://epoca.globo.com/integrantes-das-32-familias-que-assessoram-clabolsonaro-receberam-65-milhoes-desde-1991-23864535), pela Revista Época. 

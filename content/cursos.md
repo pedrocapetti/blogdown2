@@ -34,20 +34,22 @@ Abraji
 Trespontos    
 
 ## Congressos/Conferências   
+**XV Congresso Internacional de Jornalismo Investigativo da Abraji**   
+2020
 
-**4ª Conferência Brasiliera de Jornalismo de Dados (Coda BR)**   
+**4ª Conferência Brasileiro de Jornalismo de Dados (Coda BR)**   
 2019   
 
 **XIV Congresso Internacional de Jornalismo Investigativo da Abraji**     
 2019   
 
-**3ª Conferência Brasiliera de Jornalismo de Dados (Coda BR)**   
+**3ª Conferência Brasileiro de Jornalismo de Dados (Coda BR)**   
 2018
 
 **XIII Congresso Internacional de Jornalismo Investigativo da Abraji**    
 2018
 
-**2ª Conferência Brasiliera de Jornalismo de Dados (Coda BR)**   
+**2ª Conferência Brasileiro de Jornalismo de Dados (Coda BR)**   
 2017
 
 **XII Congresso Internacional de Jornalismo Investigativo da Abraji**     
