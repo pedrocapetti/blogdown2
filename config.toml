@@ -2,8 +2,8 @@ baseURL = "/"
 title = "Pedro Capetti"
 theme = "hugo-coder"
 relativeURLs = true
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
 
 paginate = 20
 

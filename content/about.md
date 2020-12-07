@@ -2,7 +2,6 @@
 slug: sobre
 title: Sobre mim
 ---
-
 Tenho 24 anos e nasci em Itajubá (MG). Sou formado em Jornalismo pela [Universidade Federal de Juiz de Fora](https://www2.ufjf.br/ufjf/). Desde agosto de 2019, atuo como repórter de Economia do [Jornal O Globo](https://oglobo.globo.com/), onde trabalho diretamente na cobertura de temas macroeconômicos e análise de políticas, a partir de dados e estatísticas. Frequentemente, contribuo com reportagens de outras temáticas, como saúde, política e segurança pública.
 
 Matérias que fiz já foram publicadas em sites como O Globo, Extra, Época, Valor Econômico e Yahoo, além de repercutirem em veículos como TV Globo, GloboNews, El Pais e The Economist. 
