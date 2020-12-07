@@ -15,8 +15,8 @@ disqusShortname = "Pedro Capetti"
 
 [params]
     author = "Pedro Capetti"
-    description = "Jornalista"
-    keywords = "jornalismo,dados,investigação"
+    description = "Site de Pedro Capetti"
+    keywords = "jornalismo, dados,investigação, economia, pedro capetti, journalism"
     info = "Jornalista"
     avatarURL = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
@@ -42,7 +42,7 @@ disqusShortname = "Pedro Capetti"
     colorScheme = "dark"
 
     # Hide the toggle button, along with the associated vertical divider
-    hideColorSchemeToggle = false
+    hideColorSchemeToggle = true
 
     # Series see also post count
     maxSeeAlsoItems = 5
@@ -133,3 +133,4 @@ disqusShortname = "Pedro Capetti"
             name = "Projetos"
             weight = 4
             url = "projetos/"
+            
